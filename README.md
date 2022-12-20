@@ -20,9 +20,9 @@ For each category, a score between -1 and 1 will be given (e.g. Movies: 0.45), s
 - For Now, this is limited to the 50 top accounts for the @FatTonysHQ Twitter account. We are waiting to be approved for 'enhanced' Twitter API access, which will allow us to pull any user's total followers. 
 
 ## Backend
-The MVP backend is a simple Flask app that servers a JSON response. params for X, Y, and Z must be provided, and they must be existing categories. For example 
+The MVP backend is a simple Flask app that servers a JSON response. params for X, Y, and Z must be provided, and they must be existing categories.
 
-## Get started
+## Getting started
 To the the backend
 1. Clone this repo onto your machine locally
 2. Install Python 3.xx if your machine does not already have it
